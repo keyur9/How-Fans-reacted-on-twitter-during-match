@@ -26,10 +26,10 @@ library("grid")
 load("twitter authentication.Rdata")
 
 #Consumer_Key of your twitter account
-consumer_key <- "P6SuHMpwZ3dD4p8RNA1XV0mXI"
+consumer_key <- "Enter your consumer key"
 
 #Consumer_Secret key of your twitter account
-consumer_secret<- "NOFstXVHZ3bH3U4u0E5xwuFG0VSitSFT9JtBqLHhq15xrXz44v"
+consumer_secret<- "Enter your consumer secret"
 
 #Handshaking with twitter
 setup_twitter_oauth(consumer_key, consumer_secret, access_token=NULL, access_secret=NULL)
