@@ -1,0 +1,11 @@
+Package: How-Fans-reacted-on-twitter-during-match
+Type: Package
+Title: How-Fans-reacted-on-twitter-during-match
+Version: 0.0.0.1
+Date: 2017-12-3
+Authors@R: c(person("Keyur", "Doshi", email = "keyur.kv@gmail.com", role = c("aut", "cre")))
+Description: How-Fans-reacted-on-twitter-during-match.
+License: MIT + file LICENSE
+URL: http://github.com/keyur9/How-Fans-reacted-on-twitter-during-match
+BugReports: http://github.com/keyur9/How-Fans-reacted-on-twitter-during-match/issues
+Depends: R (>= 2.10)
